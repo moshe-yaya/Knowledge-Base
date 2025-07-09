@@ -1,6 +1,6 @@
 
 
-# Complete Tree Configuration Guide
+# Tree Depth & Leaves  Configuration Guide
 
 ## 1. Core Formulas
 

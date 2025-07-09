@@ -1,5 +1,5 @@
 
-```markdown
+
 # Complete Tree Configuration Guide
 
 ## 1. Core Formulas
@@ -8,7 +8,7 @@
 ```python
 max_leaves = 2 ** (max_depth - 1)  # Exact for perfect binary trees
 recommended_depth = min(6, int(np.log2(n_samples)) - 2)
-```
+
 
 ### For LightGBM (Leaf-wise growth):
 ```python
